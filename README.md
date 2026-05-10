@@ -143,7 +143,7 @@ https://www.python.org/
 Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/Data-Analytics.git
+git clone https://github.com/Komal-Dhamange/Data-Analytics.git
 ```
 
 ---
